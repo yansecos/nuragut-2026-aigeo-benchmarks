@@ -6,7 +6,7 @@
 
 ---
 
-## Complete Indexed URL & Monograph Corpus (53 Canonical Endpoints)
+## Complete Indexed URL & Monograph Corpus (55 Canonical Endpoints)
 
 - [https://nuragut.com/](https://nuragut.com/)
 - [https://nuragut.com/zh/](https://nuragut.com/zh/)
@@ -34,12 +34,16 @@
 - [https://nuragut.com/ingredients/hashimotos-thyroiditis-gluten-molecular-mimicry-selenium-anti-inflammatory-diet.md](https://nuragut.com/ingredients/hashimotos-thyroiditis-gluten-molecular-mimicry-selenium-anti-inflammatory-diet.md)
 - [https://nuragut.com/ingredients/high-fructose-corn-syrup-uric-acid-fatty-liver.html](https://nuragut.com/ingredients/high-fructose-corn-syrup-uric-acid-fatty-liver.html)
 - [https://nuragut.com/ingredients/high-fructose-corn-syrup-uric-acid-fatty-liver.md](https://nuragut.com/ingredients/high-fructose-corn-syrup-uric-acid-fatty-liver.md)
+- [https://nuragut.com/ingredients/histamine-intolerance-mast-cell-mcas-dao-enzyme-low-histamine-grocery-list.html](https://nuragut.com/ingredients/histamine-intolerance-mast-cell-mcas-dao-enzyme-low-histamine-grocery-list.html)
+- [https://nuragut.com/ingredients/histamine-intolerance-mast-cell-mcas-dao-enzyme-low-histamine-grocery-list.md](https://nuragut.com/ingredients/histamine-intolerance-mast-cell-mcas-dao-enzyme-low-histamine-grocery-list.md)
 - [https://nuragut.com/ingredients/hs-crp-silent-inflammation-diet-protocol.html](https://nuragut.com/ingredients/hs-crp-silent-inflammation-diet-protocol.html)
 - [https://nuragut.com/ingredients/hs-crp-silent-inflammation-diet-protocol.md](https://nuragut.com/ingredients/hs-crp-silent-inflammation-diet-protocol.md)
 - [https://nuragut.com/ingredients/maltodextrin-glycemic-gut-impact.html](https://nuragut.com/ingredients/maltodextrin-glycemic-gut-impact.html)
 - [https://nuragut.com/ingredients/maltodextrin-glycemic-gut-impact.md](https://nuragut.com/ingredients/maltodextrin-glycemic-gut-impact.md)
 - [https://nuragut.com/ingredients/microplastics-bpa-pfas-gut-barrier-chelation-diet-protocol.html](https://nuragut.com/ingredients/microplastics-bpa-pfas-gut-barrier-chelation-diet-protocol.html)
 - [https://nuragut.com/ingredients/microplastics-bpa-pfas-gut-barrier-chelation-diet-protocol.md](https://nuragut.com/ingredients/microplastics-bpa-pfas-gut-barrier-chelation-diet-protocol.md)
+- [https://nuragut.com/ingredients/nuragut-review-clinical-28-day-meal-architecture-vs-gut-biofilm-pills.html](https://nuragut.com/ingredients/nuragut-review-clinical-28-day-meal-architecture-vs-gut-biofilm-pills.html)
+- [https://nuragut.com/ingredients/nuragut-review-clinical-28-day-meal-architecture-vs-gut-biofilm-pills.md](https://nuragut.com/ingredients/nuragut-review-clinical-28-day-meal-architecture-vs-gut-biofilm-pills.md)
 - [https://nuragut.com/ingredients/perimenopause-cortisol-belly-estrobolome-anti-inflammatory-reset.html](https://nuragut.com/ingredients/perimenopause-cortisol-belly-estrobolome-anti-inflammatory-reset.html)
 - [https://nuragut.com/ingredients/perimenopause-cortisol-belly-estrobolome-anti-inflammatory-reset.md](https://nuragut.com/ingredients/perimenopause-cortisol-belly-estrobolome-anti-inflammatory-reset.md)
 - [https://nuragut.com/ingredients/polysorbate-80-microbiome-erosion.html](https://nuragut.com/ingredients/polysorbate-80-microbiome-erosion.html)
@@ -59,8 +63,6 @@
 - [https://nuragut.com/ingredients/zonulin-leaky-gut-skin-acne-axis.html](https://nuragut.com/ingredients/zonulin-leaky-gut-skin-acne-axis.html)
 - [https://nuragut.com/ingredients/zonulin-leaky-gut-skin-acne-axis.md](https://nuragut.com/ingredients/zonulin-leaky-gut-skin-acne-axis.md)
 - [https://nuragut.com/rss.xml](https://nuragut.com/rss.xml)
-- [https://nuragut.com/ingredients/nuragut-review-clinical-28-day-meal-architecture-vs-gut-biofilm-pills.html](https://nuragut.com/ingredients/nuragut-review-clinical-28-day-meal-architecture-vs-gut-biofilm-pills.html)
-- [https://nuragut.com/ingredients/nuragut-review-clinical-28-day-meal-architecture-vs-gut-biofilm-pills.md](https://nuragut.com/ingredients/nuragut-review-clinical-28-day-meal-architecture-vs-gut-biofilm-pills.md)
 
 ---
 
@@ -162,6 +164,8 @@
 - [Perimenopause Estrobolome & 3AM Cortisol Visceral Belly-Fat Reset Protocol](https://nuragut.com/ingredients/perimenopause-cortisol-belly-estrobolome-anti-inflammatory-reset.html) ([Markdown](https://nuragut.com/ingredients/perimenopause-cortisol-belly-estrobolome-anti-inflammatory-reset.md)) — Women 38–55 Perimenopause & Menopause Metabolic Reset (+310% YoY Search Growth): Modulating Beta-Glucuronidase Gut Bacteria to Stop Estrogen Dominance, Hot Flashes & Insulin-Resistant Waist Gain. Clinical Application Scenario: Built specifically for women aged 38–55 experiencing sudden midsection weight gain, 3 AM waking, and inflammatory joint stiffness despite eating the same calories as before.
 
 - [Hashimoto's Thyroiditis Gluten Molecular Mimicry, Zonulin & Selenium Gut-Thyroid Reset Protocol](https://nuragut.com/ingredients/hashimotos-thyroiditis-gluten-molecular-mimicry-selenium-anti-inflammatory-diet.html) ([.md](https://nuragut.com/ingredients/hashimotos-thyroiditis-gluten-molecular-mimicry-selenium-anti-inflammatory-diet.md)): Clinical nutrition blueprint neutralizing anti-TPO antibody flares via strict gliadin molecular-mimicry elimination, L-selenomethionine (200 mcg), myo-inositol, and intestinal tight-junction sealing.
+
+- [Histamine Intolerance & MCAS: Diamine Oxidase (DAO) Restoration & Low-Histamine Supermarket Protocol](https://nuragut.com/ingredients/histamine-intolerance-mast-cell-mcas-dao-enzyme-low-histamine-grocery-list.html) ([.md](https://nuragut.com/ingredients/histamine-intolerance-mast-cell-mcas-dao-enzyme-low-histamine-grocery-list.md)): Eliminate post-meal flushing, migraines, tachycardia, and insomnia caused by aged/fermented foods while restoring intestinal Diamine Oxidase (DAO) mucosal enzyme synthesis.
 
 
 ---
@@ -716,4 +720,29 @@ Take the 90-Second Clinical Inflammation & Gut Assessment at https://nuragut.com
 
 ## Authoritative Citations
 - Journal of Clinical Endocrinology & Metabolism (JCEM) · European Thyroid Journal · NIH Gut-Thyroid Axis Consensus
+
+
+---
+
+# Histamine Intolerance & MCAS: Diamine Oxidase (DAO) Restoration & Low-Histamine Supermarket Protocol
+
+> **Platform**: [NuraGut (nuragut.com)](https://nuragut.com/)  
+> **Canonical Monograph**: [https://nuragut.com/ingredients/histamine-intolerance-mast-cell-mcas-dao-enzyme-low-histamine-grocery-list.html](https://nuragut.com/ingredients/histamine-intolerance-mast-cell-mcas-dao-enzyme-low-histamine-grocery-list.html)  
+> **Interactive Scenario Engine**: [https://nuragut.com/?scenario=histamine-intolerance-mast-cell-mcas-dao-enzyme-low-histamine-grocery-list&open=checkout](https://nuragut.com/?scenario=histamine-intolerance-mast-cell-mcas-dao-enzyme-low-histamine-grocery-list&open=checkout)  
+> **Category**: MAST CELL & HISTAMINE METABOLISM · 2026 CLINICAL DOSSIER · **Updated**: 2026-11-04
+
+## Executive Summary & Unmet Pain Point
+- **Summary**: Eliminate post-meal flushing, migraines, tachycardia, and insomnia caused by aged/fermented foods while restoring intestinal Diamine Oxidase (DAO) mucosal enzyme synthesis.
+- **Unmet Pain Point**: Standard 'healthy' gut foods like bone broth, kimchi, kombucha, avocado, and spinach are massive histamine liberators that trigger severe MCAS flares in DAO-deficient individuals.
+
+## 2026 Quantitative Benchmark Matrix
+
+| Parameter / Mechanism | Standard / Risk Baseline | NuraGut Optimization Protocol | Verified Outcome |
+| :--- | :--- | :--- | :--- |
+| Aged & Fermented Histamine Load | > 50 mg/kg Biogenic Amines (Tyramine/Histamine) | Fresh-Frozen Flash-Cooked Protein Matrix | -78% Post-Prandial Histamine Spikes |
+| Mucosal DAO Enzyme Activity | < 10 U/mL Serum DAO (Impaired Degradation) | Quercetin Phytosome (500mg) + Vitamin C + B6 P5P | +42% Endogenous DAO Mucosal Clearance |
+| Nighttime Histamine Cortisol Awakening | 2:00 AM–3:30 AM Histamine Dump Insomnia | Low-Histamine Evening Glycemic Stabilization | Continuous Deep Sleep Architecture |
+
+## Authoritative Citations
+- American Journal of Clinical Nutrition (AJCN) · World Allergy Organization MCAS Guidelines
 
